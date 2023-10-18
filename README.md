@@ -1,6 +1,8 @@
-# flutter all functional ecommerce
+# Flutter all functional e-commerce
 
 A new Flutter project.
+![Screenshot_1697619210](https://github.com/Nickmunene77/flutter-multivendor/assets/95125271/6a582cae-15a4-45e2-9387-5630e60cde00)
+![Screenshot_1697619225](https://github.com/Nickmunene77/flutter-multivendor/assets/95125271/990f128b-c43d-4e16-a9c2-1560f33e66c2)
 
 ## Getting Started
 
