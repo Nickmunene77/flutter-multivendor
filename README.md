@@ -1,4 +1,4 @@
-# rivanamazon
+# flutter all functional ecommerce
 
 A new Flutter project.
 
